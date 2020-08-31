@@ -1,16 +1,16 @@
 # shopkeeper
 
-Application for the vendors
+Application for the Shop vendors
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application has two views
+    # Manage Product Catalogue
+    # Manage Orders
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Manage Product Catalogue
+  In this ShopKeeper can actually add/view/delete the products.
+  
+## Manage Orders
+  In this Shopkeeper can place the users order by adding the above products and generate the bill.
+  We can actually print the receipt or send the amount as bill.
