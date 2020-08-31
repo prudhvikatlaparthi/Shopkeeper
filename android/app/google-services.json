@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460211480393",
+    "firebase_url": "https://shopkeeper-485ef.firebaseio.com",
+    "project_id": "shopkeeper-485ef",
+    "storage_bucket": "shopkeeper-485ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460211480393:android:ed46dd5dfea80b7b475c98",
+        "android_client_info": {
+          "package_name": "com.pru.shopkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460211480393-5eado8rta8h8op260m0j9raghnv17c6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujdEWhk_wXjxGext3-qW3dd89_ieHBcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460211480393-5eado8rta8h8op260m0j9raghnv17c6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
