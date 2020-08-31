@@ -2,9 +2,7 @@
 
 Application for the Shop vendors
 
-## Getting Started
-
-This application has two views
+## This application has two views
     # Manage Product Catalogue
     # Manage Orders
 
